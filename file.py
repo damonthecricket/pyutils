@@ -1,5 +1,9 @@
 
-import array
+try:
+	from . import array    
+except:
+	import array
+
 
 
 
