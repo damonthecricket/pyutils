@@ -1,7 +1,7 @@
 
 from os import listdir
-import utils.file as file
-import utils.array as array
+import file as file
+import array as array
 
 
 

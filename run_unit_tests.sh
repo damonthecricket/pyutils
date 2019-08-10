@@ -6,7 +6,7 @@
 
 echo "Run unit tests."
 
-python -m unittest  unit_tests.main
+python -m unittest unit_tests.main
 
 ./run_clean.sh
 

@@ -2,7 +2,7 @@
 __all__ = [
 	"shape",
 	"array",
-	"csv",
+	"csv_util",
 	"file",
 	"folder",
 	"plot"
