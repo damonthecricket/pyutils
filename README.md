@@ -65,7 +65,7 @@ Python programming language utils library.
   ```
 
 4. Folder. Tiny module to work with dictionary.
-  ```
+  ```python
   folder /
       1.txt
       2.txt
