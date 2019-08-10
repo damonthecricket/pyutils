@@ -1,5 +1,5 @@
 
-import utils.array as array
+import array
 
 
 
