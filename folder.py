@@ -1,7 +1,12 @@
 
 from os import listdir
-import file as file
-import array as array
+
+try:
+	from . import file
+	from . import array
+except:
+	import file
+	import array
 
 
 
