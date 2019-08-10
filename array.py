@@ -2,7 +2,10 @@
 
 
 def last(array):
-	return array[len(array) - 1]
+	if len(array) > 0:
+		return array[len(array) - 1]
+	else:
+		return None
 
 
 def is_empty(array):
