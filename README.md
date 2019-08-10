@@ -52,35 +52,35 @@ Python programming language utils library.
 
 3. File. Tiny module to work with file.
 
-  ```python
-  import pyutils.file as file
+   ```python
+   import pyutils.file as file
   
-  path = "data/text/file.txt"
+   path = "data/text/file.txt"
   
-  // Returns file.txt
-  name = file.name_from_path(path)
+   // Returns file.txt
+   name = file.name_from_path(path)
   
-  // Returns txt
-  extension = file.name_from_path(path)
-  ```
+   // Returns txt
+   extension = file.name_from_path(path)
+   ```
 
 4. Folder. Tiny module to work with dictionary.
-  ```python
-  folder /
-      1.txt
-      2.txt
-      a /
+   ```python
+   folder /
+         1.txt
+         2.txt
+         a /
   
-  import pyutils.folder as folder
+   import pyutils.folder as folder
   
-  // Returns ["1.txt", "2.txt", "a"]
-  content = folder.content("folder/")
-  ```
+   // Returns ["1.txt", "2.txt", "a"]
+   content = folder.content("folder/")
+   ```
  
  
 
  ### Installation
- ```
+  ```
   $ git clone https://github.com/damonthecricket/py-utils.git
   ```
   
