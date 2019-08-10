@@ -81,7 +81,7 @@ Python programming language utils library.
 
  ### Installation
   ```
-  $ git clone https://github.com/damonthecricket/py-utils.git
+  $ git clone https://github.com/damonthecricket/pyutils.git
   ```
   
 
